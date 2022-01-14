@@ -1,2 +1,5 @@
-# value-of-n-pi
- 🥧Find the value of pie to nth value
+## Value of Pi
+ 🥧 Find the value of pie to nth value
+
+## 📄 Preview
+![preview.png](preview.png)
